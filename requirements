@@ -1,0 +1,16 @@
+adium-theme-ubuntu==0.3.4
+backports.functools-lru-cache==1.6.1
+beautifulsoup4==4.9.3
+chardet==2.3.0
+cryptography==1.2.3
+enum34==1.1.2
+idna==2.0
+ipaddress==1.0.16
+ndg-httpsclient==0.4.0
+pyasn1==0.1.9
+pyOpenSSL==0.15.1
+requests==2.9.1
+six==1.10.0
+soupsieve==1.9.6
+unity-lens-photos==1.0
+urllib3==1.13.1
